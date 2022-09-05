@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Blog.MassTransit.EFCore.Producer": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5284",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
